@@ -51,4 +51,4 @@
 <br>
 
 ## **5. Demo 영상**
-<iframe width="640" height="360" src="https://youtu.be/ZbQwMJMhR5k" frameborder="0" gesture="media" allowfullscreen=""></iframe>
+[![목 청 Demo video](./img/Preview.JPG)](https://youtu.be/ZbQwMJMhR5k) 
